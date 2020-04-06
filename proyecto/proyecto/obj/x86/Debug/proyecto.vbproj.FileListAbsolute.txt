@@ -1,0 +1,47 @@
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.exe
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\bin\Debug\proyecto.xml
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.Form1.resources
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.Form2.resources
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.Form3.resources
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.Form4.resources
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.Resources.resources
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.Cache
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.exe
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.xml
+C:\Users\Instituto\AppData\Local\Temporary Projects\proyecto\obj\x86\Debug\proyecto.pdb
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+E:\proyecto\proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.Form1.resources
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.Form2.resources
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.Form3.resources
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.Form4.resources
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.Resources.resources
+E:\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.Cache
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.exe
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.xml
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.pdb
+F:\proyecto\proyecto\bin\Debug\proyecto.exe
+F:\proyecto\proyecto\bin\Debug\proyecto.pdb
+F:\proyecto\proyecto\bin\Debug\proyecto.xml
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.Form1.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.Form2.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.Form3.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.Form4.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.Resources.resources
+F:\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.Cache
+D:\proyecto\proyecto\bin\Debug\proyecto.exe
+D:\proyecto\proyecto\bin\Debug\proyecto.pdb
+D:\proyecto\proyecto\bin\Debug\proyecto.xml
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.Form1.resources
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.Form2.resources
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.Form3.resources
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.Form4.resources
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.Resources.resources
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.vbproj.GenerateResource.Cache
+D:\proyecto\proyecto\obj\x86\Debug\proyecto.maggi.resources
